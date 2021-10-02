@@ -1,13 +1,19 @@
 # Beam-Bending-Analysis-GUI
 The MATLAB GUI allows the analysis of beam structures using Finite Element Method such that:
+
   • The deflection values throughout the length of a beam
+  
   • The elastic curve for each beam element
+  
   • Reaction forces at the supports can found.
   
   
 The GUI is named as BeamStructureAnalysisFEM.p; and the other files are needed for running the GUI. 
+
 The manual is named as Beam_Analysis_Manual.pdf in which the basic instructions related to GUI are given. 
+
 The logic behind the code can be found in Slide-BeamBendingAnalysisUsinFEM.key in which the stiffness matrix and other concepts are discussed.
+
 The explanatory videos links for the concept&GUI as follows:
 
 
