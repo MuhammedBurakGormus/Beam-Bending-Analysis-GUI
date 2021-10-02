@@ -8,5 +8,7 @@ The manual is named as Beam_Analysis_Manual.pdf in which the basic instructions 
 The logic behind the code can be found in Slide-BeamBendingAnalysisUsinFEM.key in which the stiffness matrix and other concepts are discussed.
 
 The explanatory videos links for the concept&GUI as follows:
+
+
 Theory -----------------> https://www.youtube.com/watch?v=hz3vTGlfwCg
 GUI Explanation --------> https://www.youtube.com/watch?v=m5iXPXOZRUQ
