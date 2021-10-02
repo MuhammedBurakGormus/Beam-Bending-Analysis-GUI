@@ -15,3 +15,8 @@ Theory -----------------> https://www.youtube.com/watch?v=hz3vTGlfwCg
 
 
 GUI Explanation --------> https://www.youtube.com/watch?v=m5iXPXOZRUQ
+
+
+A sample screenshot from the GUI is as follows:
+
+<img width="1292" alt="Ekran Resmi 2021-10-02 15 53 27" src="https://user-images.githubusercontent.com/77242876/135717047-05c70a24-e3f3-4e78-9bfa-f7a9606608a6.png">
