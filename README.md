@@ -1,4 +1,4 @@
-# Beam Bending Analyis MATLAB Application 
+# Beam Bending Analysis MATLAB Application 
 
 The MATLAB GUI allows the analysis of beam structures using Finite Element Method (1D) such that:
 - The deflection values throughout the length of a beam
